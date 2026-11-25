@@ -1,0 +1,13 @@
+Project: Potentiometer Voltage Reader
+
+
+
+Board: Arduino Uno
+
+
+
+Component: 10kΩ Potentiometer
+
+
+
+What it does: Reads analog input from A2, converts the ADC reading into voltage (0–5V) and outputs it to Serial Monitor.
